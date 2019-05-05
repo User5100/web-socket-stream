@@ -9,6 +9,9 @@
   "author": "Thai Mao",
   "license": "MIT",
   "dependencies": {
-    "through2": "^3.0.1"
+    "ecstatic": "^4.1.2",
+    "through2": "^3.0.1",
+    "websocket-stream": "^5.5.0",
+    "yo-yo": "^1.4.1"
   }
 }
